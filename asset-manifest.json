@@ -1,7 +1,7 @@
 {
   "main.css": "/shoppingcounterApp/static/css/main.e45e7b18.chunk.css",
-  "main.js": "/shoppingcounterApp/static/js/main.975233dc.chunk.js",
-  "main.js.map": "/shoppingcounterApp/static/js/main.975233dc.chunk.js.map",
+  "main.js": "/shoppingcounterApp/static/js/main.f1a27c2c.chunk.js",
+  "main.js.map": "/shoppingcounterApp/static/js/main.f1a27c2c.chunk.js.map",
   "static/css/1.e49204c8.chunk.css": "/shoppingcounterApp/static/css/1.e49204c8.chunk.css",
   "static/js/1.85f9005c.chunk.js": "/shoppingcounterApp/static/js/1.85f9005c.chunk.js",
   "static/js/1.85f9005c.chunk.js.map": "/shoppingcounterApp/static/js/1.85f9005c.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.e45e7b18.chunk.css.map": "/shoppingcounterApp/static/css/main.e45e7b18.chunk.css.map",
   "static/css/1.e49204c8.chunk.css.map": "/shoppingcounterApp/static/css/1.e49204c8.chunk.css.map",
   "index.html": "/shoppingcounterApp/index.html",
-  "precache-manifest.e211864b0c464d23f3abc00b090528fe.js": "/shoppingcounterApp/precache-manifest.e211864b0c464d23f3abc00b090528fe.js",
+  "precache-manifest.0d38f34dac13c52a5d146e10cf0ee3af.js": "/shoppingcounterApp/precache-manifest.0d38f34dac13c52a5d146e10cf0ee3af.js",
   "service-worker.js": "/shoppingcounterApp/service-worker.js"
 }

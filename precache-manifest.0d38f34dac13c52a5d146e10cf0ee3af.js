@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "975233dc9a2343084115",
+    "revision": "f1a27c2ca00ecb41de37",
     "url": "/shoppingcounterApp/static/css/main.e45e7b18.chunk.css"
   },
   {
-    "revision": "975233dc9a2343084115",
-    "url": "/shoppingcounterApp/static/js/main.975233dc.chunk.js"
+    "revision": "f1a27c2ca00ecb41de37",
+    "url": "/shoppingcounterApp/static/js/main.f1a27c2c.chunk.js"
   },
   {
     "revision": "85f9005ce03e7818e58c",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/shoppingcounterApp/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "97a4251fe5348f7d4e9f1b527ce3bd9f",
+    "revision": "da14cf2ec520e332658fb48d720fa472",
     "url": "/shoppingcounterApp/index.html"
   }
 ];
